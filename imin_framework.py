@@ -25,7 +25,7 @@
       ╚═════╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝
 
    ╔═══════════════════════════════════════════════════════════════════════════╗
-   ║  DRAGON WATERMARK  |  Author: IMIN  |  Telegram: @script_ill       ║
+   ║  DRAGON WATERMARK  |  Author: TDF  |  Telegram: @Dragontech       ║
    ║  Multi-Layer Pentest Engine — AI Recon, Exploit Assist, OSINT Suite    ║
    ╚═══════════════════════════════════════════════════════════════════════════╝
 """
